@@ -85,7 +85,7 @@ Running on http://0.0.0.0:1235/ (Press CTRL+C to quit)
 127.0.0.1 - - [21/Mar/2026 19:57:33] "GET /static/css/slick.css HTTP/1.1" 404 -
 ```
 
-![图哇](\显示二进制网页.png)
+![图哇](/显示二进制网页.png)
 
 
 
@@ -302,8 +302,8 @@ http://127.0.0.1:1235/
 
 ## 界面展示
 
-![图哇](\display1.png)
+![图哇](/display1.png)
 
 
 
-![图哇](\display2.png)
+![图哇](/display2.png)
