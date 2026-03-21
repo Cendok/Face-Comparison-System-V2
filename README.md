@@ -85,7 +85,7 @@ Running on http://0.0.0.0:1235/ (Press CTRL+C to quit)
 127.0.0.1 - - [21/Mar/2026 19:57:33] "GET /static/css/slick.css HTTP/1.1" 404 -
 ```
 
-![image-20260321200545986](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20260321200545986.png)
+![图哇](\显示二进制网页.png)
 
 
 
@@ -302,8 +302,8 @@ http://127.0.0.1:1235/
 
 ## 界面展示
 
-![image-20260321205319189](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20260321205319189.png)
+![图哇](\display1.png)
 
 
 
-![image-20260321205255956](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20260321205255956.png)
+![图哇](\display2.png)
