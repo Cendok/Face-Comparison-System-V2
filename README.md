@@ -5,7 +5,6 @@
 ## Pycharm中新建虚拟环境
 
 Python3.9(Face-Comparison-System)
-
 V2共用同一个虚拟环境
 
 ```
