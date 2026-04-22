@@ -288,7 +288,7 @@ Javascript文件就用模板自带的
 
 
 
-## 访问
+## 运行app.py，访问网站
 
 ```
 http://localhost:1235/
